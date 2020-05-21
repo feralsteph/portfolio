@@ -79,6 +79,7 @@ a:hover{
   position: relative;
   top: 60px;
   margin-bottom: 40px;
+ max-width: 100%;
 }
  .me {
    width: 200px;
